@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "gender": "F",
+        "specie": "Homo erectus",
+        "age": 19,
+        "location": "Brazil"
+    },
+    {
+        "id": "2",
+        "gender": "M",
+        "specie": "Homo Sapiens",
+        "age": 45,
+        "location": "England"
+    },
+    {
+        "id": "3",
+        "gender": "F",
+        "specie": "Homo abilis",
+        "age": 32,
+        "location": "United States"
+    }
+]
